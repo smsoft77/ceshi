@@ -57,7 +57,7 @@ User Request
 
 Background Tasks:
 [scheduler] → [redis-queue] → [queue-short/long workers]
-
+！！！！！！！！
 Real-time:
 [websocket (Socket.IO)] ←→ [redis-cache]
 ```
